@@ -1,11 +1,11 @@
 {
     "installer": {
         "username": "admin",
-        "password": "teste12"
+        "password": "admin"
     },
     "settings": {
-        "name": "devShort shortlink service",
-        "author": "The admin",
+        "name": "Encurtador",
+        "author": "ProTvDigital",
         "home_link": "https://github.com/flokX/devShort",
         "favicon": "assets/icon.png",
         "custom_links": {
